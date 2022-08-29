@@ -2,8 +2,8 @@
   "name": " ʀᴀꜰᴀᴇʟ - ᴜsᴇʀʙᴏᴛ ",
   "description": "[Rafael-Userbot] Userbot Hanya Untuk Bersenang - Senang",
   "logo": "https://telegra.ph/file/cce693d14c2e49a5da15c.jpg",
-  "keywords": ["telegram", "userbot", "Ayiin-Userbot", "modular", "python"],
-  "repository": "https://github.com/AyiinXd/Ayiin-Userbot",
+  "keywords": ["telegram", "userbot", "Rafael-Userbot", "modular", "python"],
+  "repository": "https://github.com/therowsee/Rafael-Userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
