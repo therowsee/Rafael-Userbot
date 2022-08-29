@@ -1,21 +1,21 @@
 {
-  "name": "⋆ 𝘼𝙮𝙞𝙞𝙣-𝙐𝙨𝙚𝙧𝙗𝙤𝙩 ⋆",
-  "description": "[Ayiin-Userbot] Userbot Hanya Untuk Bersenang - Senang",
-  "logo": "https://telegra.ph/file/c6a0aef41355af5a018c6.jpg",
+  "name": " ʀᴀꜰᴀᴇʟ - ᴜsᴇʀʙᴏᴛ ",
+  "description": "[Rafael-Userbot] Userbot Hanya Untuk Bersenang - Senang",
+  "logo": "https://telegra.ph/file/cce693d14c2e49a5da15c.jpg",
   "keywords": ["telegram", "userbot", "Ayiin-Userbot", "modular", "python"],
   "repository": "https://github.com/AyiinXd/Ayiin-Userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
-      "description": "Dapatkan API KEY di Grup » https://t.me/AyiinXdSupport » Lalu ketik /get api atau di web my.telegram.org Masukan yg APP ID Telegram",
+      "description": "Dapatkan API KEY di web my.telegram.org",
       "required": true
     },
     "API_HASH": {
-      "description": "Dapatkan API Hash di Grup » https://t.me/AyiinXdSupport » Lalu ketik /get api atau di web my.telegram.org",
+      "description": "Dapatkan API Hash di web my.telegram.org",
       "required": true
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di Grup » https://t.me/AyiinXdSupport » Lalu ketik /get string",
+      "description": "Dapatkan String Session di @RapalelStingsBot",
       "required": true
     },
     "HEROKU_APP_NAME": {
